@@ -1,28 +1,16 @@
 # peg-game
 
-FIXME: description
+Simple peg jumping game ala the ones you find at Cracker Barrel.
 
-## Installation
+## Installation and Usage
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar peg-game-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+   git clone https://github.com/bryanqb07/peg-game.git
+   cd peg-game
+   lein run
 
 ### Bugs
 
-...
+TO-DO: clear terminal output after every render
 
 ### Any Other Sections
 ### That You Think
