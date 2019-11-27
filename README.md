@@ -4,9 +4,9 @@ Simple peg jumping game ala the ones you find at Cracker Barrel.
 
 ## Installation and Usage
 
-   git clone https://github.com/bryanqb07/peg-game.git
+   <code>git clone https://github.com/bryanqb07/peg-game.git</code>N
    cd peg-game
-   lein run
+   lein run</code>
 
 ### Bugs
 
