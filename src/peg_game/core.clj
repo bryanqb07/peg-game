@@ -230,4 +230,6 @@
       (user-entered-valid-move new-board)
       (user-entered-invalid-move new-board))))
 
-
+(defn -main
+  []
+  (prompt-rows))
